@@ -1,4 +1,4 @@
-# INSERTION SORT(PROJE-1) MERGE SORT(PROJE-2)
+# INSERTION SORT(PROJE-1) MERGE SORT(PROJE-2) BİNARY SEARCH TREE PROJESİ(PROJE-3) 
 
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
@@ -41,7 +41,24 @@ PROJE-2
            6. [8,11,12,16,21,22]
 Big-O gösterimini yazınız.
 Big-O: O(nlogn)
-
+ 
+ 
+ PROJE-3
+ [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+                7
+              /   \
+             5     8
+            / \       \
+           1   6        9
+          /\
+         0   3
+           /   \
+          2      4
+         
+         ROOT=7
+         ROOT X=8
+         ROOT Y=5
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 
 
