@@ -1,4 +1,4 @@
-# INSERTION SORT
+# INSERTION SORT-MERGE SORT(PROJE-2)
 
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
@@ -28,3 +28,27 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
    3. 2,3,4,5,7,9,8,15,6
    4. 2,3,4,5,6,9,8,15,7
    
+PROJE-2
+[16,21,11,8,12,22] -> Merge Sort
+
+1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+              [16,21,11,8,12,22]
+           1: [16,21,11] , [8,12,22]
+           2: [16,21], [11] -[8,12] ,[22]
+           3: [16] , [21] ,[11] - [8], [12], [22] 
+           4. [21,16],[11]-[8,12],[22]
+           5. [11,16,21]-[8,12,22]
+           6. [8,11,12,16,21,22]
+Big-O gösterimini yazınız.
+Big-O: O(nlogn)
+
+
+
+
+
+
+
+
+
+
+
